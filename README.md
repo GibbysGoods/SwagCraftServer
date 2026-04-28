@@ -1,2 +1,5 @@
 # SwagCraftServer
-info for server
+
+
+Curseforge Code-
+p7UXwyuO
