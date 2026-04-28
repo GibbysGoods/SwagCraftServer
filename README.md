@@ -1,0 +1,2 @@
+# SwagCraftServer
+info for server
